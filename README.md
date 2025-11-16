@@ -55,7 +55,7 @@ _(Os projetos serão adicionados conforme forem desenvolvidos)_
 
 ## 📫 Como falar comigo
 - **Email:** seu-email-aqui
-- **LinkedIn:** https://linkedin.com/in/SEU-USUARIO
+<!-- **LinkedIn:** https://linkedin.com/in/SEU-USUARIO-->
 - **GitHub:** https://github.com/Shandiel
 
 ---
